@@ -86,12 +86,21 @@
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XY02PP3ZYC"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-XY02PP3ZYC');
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-XY02PP3ZYC', { 'anonymize_ip': false });
+}
 </script>
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2675727061807627"
+     crossorigin="anonymous"></script>
+</script>
+
+
 
 
 </head>

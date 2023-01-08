@@ -6,7 +6,7 @@
     <description>Recent content on 興大附中數學科</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Oct 2021 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jan 2023 16:01:23 +0800</lastBuildDate>
     
         <atom:link href="https://shchmath.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,11 +14,33 @@
     <item>
       <title>學測試題</title>
       <link>https://shchmath.github.io/shchmath/basic/</link>
-      <pubDate>Fri, 22 Oct 2021 16:01:23 +0800</pubDate>
+      <pubDate>Sun, 08 Jan 2023 16:01:23 +0800</pubDate>
       
       <guid>https://shchmath.github.io/shchmath/basic/</guid>
       
         <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;年度&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數A試題&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數A解答&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數B試題&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數B解答&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;111年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/basic-A/111-A.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/basic-A/111-A-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/basic-B/111-B.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/basic-B/111-B-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;年度&lt;/th&gt;
@@ -209,7 +231,7 @@
     <item>
       <title>師資團隊</title>
       <link>https://shchmath.github.io/shchmath/member/</link>
-      <pubDate>Fri, 22 Oct 2021 16:01:23 +0800</pubDate>
+      <pubDate>Sun, 08 Jan 2023 16:01:23 +0800</pubDate>
       
       <guid>https://shchmath.github.io/shchmath/member/</guid>
       
@@ -282,10 +304,6 @@
 &lt;td style=&#34;text-align:left&#34;&gt;derekmath(at)mail.dali.tc.edu.tw&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;洪珊琳&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;hungsunny30(at)mail.dali.tc.edu.tw&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;張峻國&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;heeroch(at)mail.dali.tc.edu.tw&lt;/td&gt;
 &lt;/tr&gt;
@@ -307,11 +325,33 @@
     <item>
       <title>指考試題</title>
       <link>https://shchmath.github.io/shchmath/pro/</link>
-      <pubDate>Fri, 22 Oct 2021 16:01:23 +0800</pubDate>
+      <pubDate>Sun, 08 Jan 2023 16:01:23 +0800</pubDate>
       
       <guid>https://shchmath.github.io/shchmath/pro/</guid>
       
         <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;年度&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數甲試題&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數甲解答&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數乙試題&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數乙解答&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;111年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/111-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/111-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;年度&lt;/th&gt;
@@ -543,11 +583,84 @@
     <item>
       <title>段考試題</title>
       <link>https://shchmath.github.io/shchmath/usual/</link>
-      <pubDate>Fri, 22 Oct 2021 16:01:23 +0800</pubDate>
+      <pubDate>Sun, 08 Jan 2023 16:01:23 +0800</pubDate>
       
       <guid>https://shchmath.github.io/shchmath/usual/</guid>
       
         <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;111-1&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;期初測驗&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;期末考&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;111-2(未更新)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;期末考&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;  一年級&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/one/111-1-1-1.pdf&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/two/111-1-2-1.pdf&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/final/111-1-3-1.pdf&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-2/one/111-2-1-1.pdf&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-2/two/111-2-2-1.pdf&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-2/final/111-2-3-1.pdf&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;      二年級       數A&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/zero/111-1-0-2.doc&#34;&gt;0&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/one/111-1-1-2a.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/two/111-1-2-2a.pdf&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/final/111-1-3-2a.pdf&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-2/one/111-2-1-2a.docx&#34;&gt;1&lt;/a&gt;     &lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-2/one/111-2-1-2a-s.docx&#34;&gt;1-s&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-2/two/111-2-2-2a.pdf&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-2/final/111-2-3-2a.doc&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;      二年級       數B&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/zero/111-1-0-2.doc&#34;&gt;0&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/one/111-1-1-2b.doc&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/two/111-1-2-2b.docx&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/final/111-1-3-2b.pdf&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-2/one/111-2-1-2b.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-2/two/111-2-2-2b.doc&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-2/final/111-2-3-2b.doc&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;      三年級       數甲&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/one/111-1-1-3a.doc&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/two/111-1-2-3a.doc&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/final/111-1-3-3a.pdf&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/110-2/one/110-2-1-3a.pdf&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;      三年級       數乙&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/one/111-1-1-3b-A.pdf&#34;&gt;1-A&lt;/a&gt;  &lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/one/111-1-1-3b-B.pdf&#34;&gt;1-B&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/two/111-1-2-3b-A.doc&#34;&gt;2-A&lt;/a&gt;  &lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/two/111-1-2-3b-B.pdf&#34;&gt;2-B&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/final/111-1-3-3b-A.docx&#34;&gt;3-A&lt;/a&gt;  &lt;a href=&#34;https://shchmath.github.io/shchmath/usual/111-1/final/111-1-3-3b-B.doc&#34;&gt;3-B&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;110-1&lt;/th&gt;
@@ -1872,6 +1985,173 @@
     </item>
     
     <item>
+      <title>興附杯試題</title>
+      <link>https://shchmath.github.io/shchmath/happy/</link>
+      <pubDate>Sun, 08 Jan 2023 16:01:23 +0800</pubDate>
+      
+      <guid>https://shchmath.github.io/shchmath/happy/</guid>
+      
+        <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;111-1&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;111-2&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;一年級&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/111-1/111-1-1-1.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-2/110-2-1-1.pdf&#34;&gt;1&lt;/a&gt;   &lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-2/110-2-1-1-s.pdf&#34;&gt;1-s&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;二年級數A&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/111-1/111-1-1-2a.pdf&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-2/110-2-1-2a.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;二年級數B&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/111-1/111-1-1-2b.pdf&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-2/110-2-1-2b.pdf&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;110-1&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;110-2&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;一年級&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-1/110-1-1-1.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-2/110-2-1-1.pdf&#34;&gt;1&lt;/a&gt;   &lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-2/110-2-1-1-s.pdf&#34;&gt;1-s&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;二年級數A&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-1/111-1-1-2.pdf&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-2/110-2-1-2a.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;二年級數B&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-1/111-1-1-2.pdf&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-2/110-2-1-2b.pdf&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;109-1&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;110-2&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;一年級&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/109-1/109-1-1-1.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/109-1/109-1-2-1.docx&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;二年級數A&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/109-1/109-1-1-2a.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/109-1/109-1-2-2a.docx&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/109-2/109-2-1-2a.doc&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;二年級數B&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/109-1/109-1-1-2b.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/109-1/109-1-2-2b.docx&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/109-2/109-2-1-2b.doc&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;108-1&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;110-2&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;一年級&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;二年級自然組&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/108-2/108-2-1-2.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;二年級社會組&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/108-2/108-2-1-2.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>相關網站</title>
       <link>https://shchmath.github.io/shchmath/link/</link>
       <pubDate>Fri, 22 Oct 2021 16:01:23 +0800</pubDate>
@@ -1978,134 +2258,6 @@
       <guid>https://shchmath.github.io/shchmath/main/</guid>
       
         <description>&lt;p&gt;歡迎來到興附數學！若在學習高中數學的過程中遇到任何困難，歡迎到數學科辦公室跟數學老師聊聊天。&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>興附杯試題</title>
-      <link>https://shchmath.github.io/shchmath/happy/</link>
-      <pubDate>Fri, 22 Oct 2021 16:01:23 +0800</pubDate>
-      
-      <guid>https://shchmath.github.io/shchmath/happy/</guid>
-      
-        <description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;110-1&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;110-2&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;一年級&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-1/110-1-1-1.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-1/110-1-2-1.docx&#34;&gt;2&lt;/a&gt;   &lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-1/110-1-2-1-s.docx&#34;&gt;2-s&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-2/110-2-1-1.pdf&#34;&gt;1&lt;/a&gt;   &lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-2/110-2-1-1-s.pdf&#34;&gt;1-s&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;二年級數A&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-1/110-1-1-2a.pdf&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-2/110-2-1-2a.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;二年級數B&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-1/110-1-1-2b.pdf&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/110-2/110-2-1-2b.pdf&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;109-1&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;110-2&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;一年級&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/109-1/109-1-1-1.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/109-1/109-1-2-1.docx&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;二年級數A&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/109-1/109-1-1-2a.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/109-1/109-1-2-2a.docx&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/109-2/109-2-1-2a.doc&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;二年級數B&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/109-1/109-1-1-2b.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/109-1/109-1-2-2b.docx&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/109-2/109-2-1-2b.doc&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;108-1&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;110-2&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;一年級&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;二年級自然組&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/108-2/108-2-1-2.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;二年級社會組&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/108-2/108-2-1-2.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
       
     </item>

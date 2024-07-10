@@ -6,7 +6,7 @@
     <description>Recent content on 興大附中數學科</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Jan 2023 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 16:01:23 +0800</lastBuildDate>
     
         <atom:link href="https://shchmath.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>學測試題</title>
       <link>https://shchmath.github.io/shchmath/basic/</link>
-      <pubDate>Sun, 08 Jan 2023 16:01:23 +0800</pubDate>
+      <pubDate>Wed, 10 Jul 2024 16:01:23 +0800</pubDate>
       
       <guid>https://shchmath.github.io/shchmath/basic/</guid>
       
@@ -29,6 +29,13 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;113年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/basic-A/113-A.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/basic-A/113-A-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/basic-B/113-B.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/basic-B/113-B-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;112年度&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/basic-A/112-A.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
@@ -236,368 +243,9 @@
     </item>
     
     <item>
-      <title>師資團隊</title>
-      <link>https://shchmath.github.io/shchmath/member/</link>
-      <pubDate>Sun, 08 Jan 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://shchmath.github.io/shchmath/member/</guid>
-      
-        <description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;教師姓名&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;教師EMAIL&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;蔡志強&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;ttstrong(at)mail.dali.tc.edu.tw&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;楊志偉&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;analysis1002(at)mail.dali.tc.edu.tw&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;黃鈺媖&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;bubu(at)mail.dali.tc.edu.tw&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;游祥裕&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;yhsy(at)mail.dali.tc.edu.tw&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;陳育如&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;irina(at)mail.dali.tc.edu.tw&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;張雅超&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;yachao(at)mail.dali.tc.edu.tw&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;涂耀乾&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;atool(at)mail.dali.tc.edu.tw&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;邱繼輝&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;eureka(at)mail.dali.tc.edu.tw&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;林肇政&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;jjlin(at)mail.dali.tc.edu.tw&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;孟主安&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;mencius(at)mail.dali.tc.edu.tw&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;呂基台&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;luchitai(at)mail.dali.tc.edu.tw&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;許庭彰&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;tjshiu(at)mail.dali.tc.edu.tw&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;許竣堡&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;chunbao(at)mail.dali.tc.edu.tw&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;吳明燕&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;mingyan24(at)mail.dali.tc.edu.tw&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;陳信憲&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;derekmath(at)mail.dali.tc.edu.tw&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;張峻國&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;heeroch(at)mail.dali.tc.edu.tw&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;簡文潔 (2020.08退休)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;wcchien(at)mail.dali.tc.edu.tw&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;謝國釧 (2017.02退休)&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;kchsieh(at)mail.dali.tc.edu.tw&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>指考試題</title>
-      <link>https://shchmath.github.io/shchmath/pro/</link>
-      <pubDate>Sun, 08 Jan 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://shchmath.github.io/shchmath/pro/</guid>
-      
-        <description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;年度&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;數甲試題&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;數甲解答&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;數乙試題&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;數乙解答&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;112年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/112-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/112-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;111年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/111-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/111-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;年度&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;數甲試題&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;數甲解答&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;數乙試題&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;數乙解答&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;110年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/110-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/110-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/110-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/110-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;109年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/109-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/109-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/109-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/109-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;108年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/108-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/108-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/108-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/108-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;107年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/107-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/107-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/107-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/107-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;106年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/106-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/106-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/106-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/106-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;105年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/105-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/105-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/105-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/105-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;104年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/104-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/104-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/104-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/104-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;103年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/103-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/103-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/103-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/103-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;102年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/102-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/102-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/102-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/102-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;101年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/101-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/101-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/101-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/101-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;100年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/100-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/100-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/100-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/100-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;年度&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;數甲試題&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;數甲解答&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;數乙試題&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;數乙解答&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;099年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/099-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/099-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/099-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/099-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;098年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/098-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/098-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/098-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/098-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;097年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/097-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/097-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/097-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/097-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;096年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/096-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/096-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/096-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/096-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;095年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/095-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/095-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/095-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/095-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;094年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/094-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/094-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/094-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/094-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;093年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/093-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/093-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/093-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/093-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;093年度(補考)&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/093-2-1.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/093-2-1-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/093-3-1.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/093-3-1-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;092年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/092-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/092-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/092-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/092-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;091年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/091-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/091-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/091-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/091-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;年度&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;自然組試題(含解答)&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;社會組試題(含解答)&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;090年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/090-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/090-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;089年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/089-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/089-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;088年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/088-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/088-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;087年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/087-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/087-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;086年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/086-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/086-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;085年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/085-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/085-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;084年度&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/084-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/084-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
       <title>段考試題</title>
       <link>https://shchmath.github.io/shchmath/usual/</link>
-      <pubDate>Sun, 08 Jan 2023 16:01:23 +0800</pubDate>
+      <pubDate>Wed, 10 Jul 2024 16:01:23 +0800</pubDate>
       
       <guid>https://shchmath.github.io/shchmath/usual/</guid>
       
@@ -609,7 +257,7 @@
 &lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;期末考&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;112-2(未更新)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;112-2&lt;/th&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;期末考&lt;/th&gt;
@@ -623,7 +271,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-1/two/112-1-2-1.pdf&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-1/final/112-1-3-1.doc&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-2/one/112-2-1-1.pdf&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-2/one/112-2-1-1.doc&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-2/two/112-2-2-1.pdf&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-2/final/112-2-3-1.pdf&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -634,7 +282,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-1/two/112-1-2-2a.docx&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-1/final/112-1-3-2a.docx&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-2/one/112-2-1-2a.pdf&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-2/one/112-2-1-2a.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-2/two/112-2-2-2a.docx&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-2/final/112-2-3-2a.doc&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -647,7 +295,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-2/one/112-2-1-2b.pdf&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-2/two/112-2-2-2b.doc&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-2/final/112-2-3-2b.docx&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-2/final/112-2-3-2b.pdf&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;      三年級       數甲&lt;/td&gt;
@@ -656,7 +304,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-1/two/112-1-2-3a.pdf&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-1/final/112-1-3-3a.docx&#34;&gt;3&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-2/one/112-2-1-3a.pdf&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-2/one/112-2-1-3a.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/usual/112-2/two/112-2-2-3a.pdf&#34;&gt;2&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -2074,7 +1722,7 @@
     <item>
       <title>興附杯試題</title>
       <link>https://shchmath.github.io/shchmath/happy/</link>
-      <pubDate>Sun, 08 Jan 2023 16:01:23 +0800</pubDate>
+      <pubDate>Wed, 10 Jul 2024 16:01:23 +0800</pubDate>
       
       <guid>https://shchmath.github.io/shchmath/happy/</guid>
       
@@ -2084,7 +1732,7 @@
 &lt;th style=&#34;text-align:center&#34;&gt;112-1&lt;/th&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;112-2(未更新)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;112-2&lt;/th&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;第一次&lt;/th&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;第二次&lt;/th&gt;
 &lt;/tr&gt;
@@ -2095,7 +1743,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/112-1/112-1-1-1.pdf&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/112-2/112-2-1-1.doc&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2103,7 +1751,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/112-2/112-2-1-2a.doc&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/112-2/112-2-1-2a.pdf&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2111,7 +1759,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/112-2/112-2-1-2b.doc&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/happy/112-2/112-2-1-2b.docx&#34;&gt;1&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -2272,6 +1920,365 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>師資團隊</title>
+      <link>https://shchmath.github.io/shchmath/member/</link>
+      <pubDate>Sun, 08 Jan 2023 16:01:23 +0800</pubDate>
+      
+      <guid>https://shchmath.github.io/shchmath/member/</guid>
+      
+        <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;教師姓名&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;教師EMAIL&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;蔡志強&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;ttstrong(at)mail.dali.tc.edu.tw&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;楊志偉&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;analysis1002(at)mail.dali.tc.edu.tw&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;黃鈺媖&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;bubu(at)mail.dali.tc.edu.tw&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;游祥裕&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;yhsy(at)mail.dali.tc.edu.tw&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;陳育如&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;irina(at)mail.dali.tc.edu.tw&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;張雅超&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;yachao(at)mail.dali.tc.edu.tw&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;涂耀乾&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;atool(at)mail.dali.tc.edu.tw&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;邱繼輝&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;eureka(at)mail.dali.tc.edu.tw&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;林肇政&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;jjlin(at)mail.dali.tc.edu.tw&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;孟主安&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;mencius(at)mail.dali.tc.edu.tw&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;呂基台&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;luchitai(at)mail.dali.tc.edu.tw&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;許庭彰&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;tjshiu(at)mail.dali.tc.edu.tw&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;許竣堡&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;chunbao(at)mail.dali.tc.edu.tw&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;吳明燕&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;mingyan24(at)mail.dali.tc.edu.tw&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;陳信憲&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;derekmath(at)mail.dali.tc.edu.tw&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;張峻國&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;heeroch(at)mail.dali.tc.edu.tw&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;簡文潔 (2020.08退休)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;wcchien(at)mail.dali.tc.edu.tw&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;謝國釧 (2017.02退休)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;kchsieh(at)mail.dali.tc.edu.tw&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>指考試題</title>
+      <link>https://shchmath.github.io/shchmath/pro/</link>
+      <pubDate>Sun, 08 Jan 2023 16:01:23 +0800</pubDate>
+      
+      <guid>https://shchmath.github.io/shchmath/pro/</guid>
+      
+        <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;年度&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數甲試題&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數甲解答&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數乙試題&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數乙解答&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;112年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/112-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/112-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;111年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/111-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/111-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;年度&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數甲試題&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數甲解答&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數乙試題&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數乙解答&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;110年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/110-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/110-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/110-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/110-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;109年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/109-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/109-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/109-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/109-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;108年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/108-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/108-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/108-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/108-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;107年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/107-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/107-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/107-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/107-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;106年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/106-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/106-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/106-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/106-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;105年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/105-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/105-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/105-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/105-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;104年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/104-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/104-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/104-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/104-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;103年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/103-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/103-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/103-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/103-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;102年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/102-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/102-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/102-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/102-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;101年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/101-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/101-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/101-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/101-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/100-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/100-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/100-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/100-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;年度&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數甲試題&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數甲解答&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數乙試題&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;數乙解答&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;099年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/099-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/099-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/099-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/099-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;098年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/098-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/098-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/098-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/098-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;097年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/097-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/097-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/097-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/097-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;096年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/096-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/096-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/096-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/096-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;095年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/095-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/095-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/095-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/095-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;094年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/094-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/094-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/094-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/094-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;093年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/093-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/093-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/093-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/093-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;093年度(補考)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/093-2-1.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/093-2-1-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/093-3-1.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/093-3-1-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;092年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/092-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/092-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/092-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/092-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;091年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/091-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro1/091-2-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/091-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/pro2/091-3-s.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;年度&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;自然組試題(含解答)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;社會組試題(含解答)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;090年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/090-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/090-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;089年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/089-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/089-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;088年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/088-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/088-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;087年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/087-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/087-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;086年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/086-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/086-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;085年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/085-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/085-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;084年度&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/084-2.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;https://shchmath.github.io/shchmath/pro/proold/084-3.pdf&#34;&gt;點我下載&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
       

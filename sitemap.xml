@@ -3,14 +3,112 @@
   
   <url>
     <loc>https://shchmath.github.io/categories/</loc>
-    <lastmod>2023-01-08T16:01:23+08:00</lastmod>
+    <lastmod>2024-07-10T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://shchmath.github.io/categories/exam/</loc>
-    <lastmod>2023-01-08T16:01:23+08:00</lastmod>
+    <lastmod>2024-07-10T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shchmath.github.io/categories/math/</loc>
+    <lastmod>2024-07-10T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shchmath.github.io/categories/shch/</loc>
+    <lastmod>2024-07-10T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shchmath.github.io/shchmath/</loc>
+    <lastmod>2024-07-10T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shchmath.github.io/tags/</loc>
+    <lastmod>2024-07-10T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shchmath.github.io/tags/%E5%AD%B8%E6%B8%AC%E6%95%B8%E5%AD%B8/</loc>
+    <lastmod>2024-07-10T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shchmath.github.io/tags/%E5%AD%B8%E6%B8%AC%E8%A9%A6%E9%A1%8C/</loc>
+    <lastmod>2024-07-10T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shchmath.github.io/shchmath/basic/</loc>
+    <lastmod>2024-07-10T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shchmath.github.io/tags/%E6%95%B8%E5%AD%B8%E7%A7%91/</loc>
+    <lastmod>2024-07-10T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shchmath.github.io/tags/%E6%AE%B5%E8%80%83%E8%A9%A6%E9%A1%8C/</loc>
+    <lastmod>2024-07-10T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shchmath.github.io/shchmath/usual/</loc>
+    <lastmod>2024-07-10T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shchmath.github.io/tags/%E8%88%88%E5%A4%A7%E9%99%84%E4%B8%AD/</loc>
+    <lastmod>2024-07-10T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shchmath.github.io/</loc>
+    <lastmod>2024-07-10T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shchmath.github.io/tags/%E8%88%88%E9%99%84%E6%9D%AF%E8%A9%A6%E9%A1%8C/</loc>
+    <lastmod>2024-07-10T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://shchmath.github.io/shchmath/happy/</loc>
+    <lastmod>2024-07-10T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -23,56 +121,7 @@
   </url>
   
   <url>
-    <loc>https://shchmath.github.io/categories/math/</loc>
-    <lastmod>2023-01-08T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shchmath.github.io/categories/shch/</loc>
-    <lastmod>2023-01-08T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shchmath.github.io/shchmath/</loc>
-    <lastmod>2023-01-08T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shchmath.github.io/tags/</loc>
-    <lastmod>2023-01-08T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://shchmath.github.io/categories/teacher/</loc>
-    <lastmod>2023-01-08T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shchmath.github.io/tags/%E5%AD%B8%E6%B8%AC%E6%95%B8%E5%AD%B8/</loc>
-    <lastmod>2023-01-08T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shchmath.github.io/tags/%E5%AD%B8%E6%B8%AC%E8%A9%A6%E9%A1%8C/</loc>
-    <lastmod>2023-01-08T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shchmath.github.io/shchmath/basic/</loc>
     <lastmod>2023-01-08T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -101,55 +150,6 @@
   
   <url>
     <loc>https://shchmath.github.io/shchmath/pro/</loc>
-    <lastmod>2023-01-08T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shchmath.github.io/tags/%E6%95%B8%E5%AD%B8%E7%A7%91/</loc>
-    <lastmod>2023-01-08T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shchmath.github.io/tags/%E6%AE%B5%E8%80%83%E8%A9%A6%E9%A1%8C/</loc>
-    <lastmod>2023-01-08T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shchmath.github.io/shchmath/usual/</loc>
-    <lastmod>2023-01-08T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shchmath.github.io/tags/%E8%88%88%E5%A4%A7%E9%99%84%E4%B8%AD/</loc>
-    <lastmod>2023-01-08T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shchmath.github.io/</loc>
-    <lastmod>2023-01-08T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shchmath.github.io/tags/%E8%88%88%E9%99%84%E6%9D%AF%E8%A9%A6%E9%A1%8C/</loc>
-    <lastmod>2023-01-08T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://shchmath.github.io/shchmath/happy/</loc>
     <lastmod>2023-01-08T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -6,13 +6,31 @@
     <description>Recent content in Categories on 興大附中數學科</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Jan 2023 16:01:23 +0800</lastBuildDate><atom:link href="https://shchmath.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jul 2024 16:01:23 +0800</lastBuildDate><atom:link href="https://shchmath.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>exam</title>
       <link>https://shchmath.github.io/categories/exam/</link>
-      <pubDate>Sun, 08 Jan 2023 16:01:23 +0800</pubDate>
+      <pubDate>Wed, 10 Jul 2024 16:01:23 +0800</pubDate>
       
       <guid>https://shchmath.github.io/categories/exam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>https://shchmath.github.io/categories/math/</link>
+      <pubDate>Wed, 10 Jul 2024 16:01:23 +0800</pubDate>
+      
+      <guid>https://shchmath.github.io/categories/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shch</title>
+      <link>https://shchmath.github.io/categories/shch/</link>
+      <pubDate>Wed, 10 Jul 2024 16:01:23 +0800</pubDate>
+      
+      <guid>https://shchmath.github.io/categories/shch/</guid>
       <description></description>
     </item>
     
@@ -22,24 +40,6 @@
       <pubDate>Sun, 08 Jan 2023 16:01:23 +0800</pubDate>
       
       <guid>https://shchmath.github.io/categories/index/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>math</title>
-      <link>https://shchmath.github.io/categories/math/</link>
-      <pubDate>Sun, 08 Jan 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://shchmath.github.io/categories/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shch</title>
-      <link>https://shchmath.github.io/categories/shch/</link>
-      <pubDate>Sun, 08 Jan 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://shchmath.github.io/categories/shch/</guid>
       <description></description>
     </item>
     

@@ -6,14 +6,32 @@
     <description>Recent content in exam on 興大附中數學科</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Jan 2023 16:01:23 +0800</lastBuildDate><atom:link href="https://shchmath.github.io/categories/exam/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jul 2024 16:01:23 +0800</lastBuildDate><atom:link href="https://shchmath.github.io/categories/exam/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>學測試題</title>
       <link>https://shchmath.github.io/shchmath/basic/</link>
-      <pubDate>Sun, 08 Jan 2023 16:01:23 +0800</pubDate>
+      <pubDate>Wed, 10 Jul 2024 16:01:23 +0800</pubDate>
       
       <guid>https://shchmath.github.io/shchmath/basic/</guid>
-      <description>年度 數A試題 數A解答 數B試題 數B解答 112年度 點我下載 點我下載 點我下載 點我下載 111年度 點我下載 點我下載 點我下載 點我下載 年度 試題 解答 110年</description>
+      <description>年度 數A試題 數A解答 數B試題 數B解答 113年度 點我下載 點我下載 點我下載 點我下載 112年度 點我下載 點我下載 點我下載 點我下載 111年度 點我下載 點</description>
+    </item>
+    
+    <item>
+      <title>段考試題</title>
+      <link>https://shchmath.github.io/shchmath/usual/</link>
+      <pubDate>Wed, 10 Jul 2024 16:01:23 +0800</pubDate>
+      
+      <guid>https://shchmath.github.io/shchmath/usual/</guid>
+      <description>112-1 期初測驗 第一次 第二次 期末考 112-2 第一次 第二次 期末考 一年級 1 2 3 1 2 3 二年級 數A 0 1 2 3 1 2 3 二年級 數B 0 1 2 3 1 2 3 三年級 數甲 1 2 3 1 2 三年級</description>
+    </item>
+    
+    <item>
+      <title>興附杯試題</title>
+      <link>https://shchmath.github.io/shchmath/happy/</link>
+      <pubDate>Wed, 10 Jul 2024 16:01:23 +0800</pubDate>
+      
+      <guid>https://shchmath.github.io/shchmath/happy/</guid>
+      <description>112-1 第一次 第二次 112-2 第一次 第二次 一年級 1 1 二年級數A 1 二年級數B 1 111-1 第一次 第二次 111-2 第一次 第二次 一年級 1 二年級數A 1 1 二年級數B 1 1 110-1 第一次 第二次</description>
     </item>
     
     <item>
@@ -23,24 +41,6 @@
       
       <guid>https://shchmath.github.io/shchmath/pro/</guid>
       <description>年度 數甲試題 數甲解答 數乙試題 數乙解答 112年度 點我下載 點我下載 111年度 點我下載 點我下載 年度 數甲試題 數甲解答 數乙試題 數乙解答 110年度 點我下</description>
-    </item>
-    
-    <item>
-      <title>段考試題</title>
-      <link>https://shchmath.github.io/shchmath/usual/</link>
-      <pubDate>Sun, 08 Jan 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://shchmath.github.io/shchmath/usual/</guid>
-      <description>112-1 期初測驗 第一次 第二次 期末考 112-2(未更新) 第一次 第二次 期末考 一年級 1 2 3 1 2 3 二年級 數A 0 1 2 3 1 2 3 二年級 數B 0 1 2 3 1 2 3 三年級 數</description>
-    </item>
-    
-    <item>
-      <title>興附杯試題</title>
-      <link>https://shchmath.github.io/shchmath/happy/</link>
-      <pubDate>Sun, 08 Jan 2023 16:01:23 +0800</pubDate>
-      
-      <guid>https://shchmath.github.io/shchmath/happy/</guid>
-      <description>112-1 第一次 第二次 112-2(未更新) 第一次 第二次 一年級 1 二年級數A 1 二年級數B 1 111-1 第一次 第二次 111-2 第一次 第二次 一年級 1 二年級數A 1 1 二年級數B 1</description>
     </item>
     
   </channel>
